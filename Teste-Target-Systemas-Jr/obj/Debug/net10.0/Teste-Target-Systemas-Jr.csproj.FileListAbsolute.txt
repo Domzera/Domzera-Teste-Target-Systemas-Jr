@@ -1,0 +1,16 @@
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\bin\Debug\net10.0\Teste-Target-Systemas-Jr.exe
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\bin\Debug\net10.0\Teste-Target-Systemas-Jr.deps.json
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\bin\Debug\net10.0\Teste-Target-Systemas-Jr.runtimeconfig.json
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\bin\Debug\net10.0\Teste-Target-Systemas-Jr.dll
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\bin\Debug\net10.0\Teste-Target-Systemas-Jr.pdb
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Target-Systemas-Jr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Target-Systemas-Jr.AssemblyInfoInputs.cache
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Target-Systemas-Jr.AssemblyInfo.cs
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Target-Systemas-Jr.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Target-Systemas-Jr.sourcelink.json
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Target-Systemas-Jr.dll
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\refint\Teste-Target-Systemas-Jr.dll
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Target-Systemas-Jr.pdb
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Target-Systemas-Jr.genruntimeconfig.cache
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\ref\Teste-Target-Systemas-Jr.dll
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Ta.9FCF6EA2.Up2Date
