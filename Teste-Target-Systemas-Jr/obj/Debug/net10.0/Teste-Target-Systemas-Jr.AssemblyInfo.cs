@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teste-Target-Systemas-Jr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f87b970d7978faa2a3c73421c395ba2bcec73d4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96aba0a3033bbe1746f55efaf48e5def9f7e6976")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teste-Target-Systemas-Jr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teste-Target-Systemas-Jr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

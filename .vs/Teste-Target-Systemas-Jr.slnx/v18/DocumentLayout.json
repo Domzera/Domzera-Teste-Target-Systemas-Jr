@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|c:\\users\\lu\\desktop\\teste\\teste-target-systemas-jr\\teste-target-systemas-jr\\calculacomissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|solutionrelative:teste-target-systemas-jr\\calculacomissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|c:\\users\\lu\\desktop\\teste\\teste-target-systemas-jr\\teste-target-systemas-jr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|solutionrelative:teste-target-systemas-jr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\Program.cs",
               "RelativeDocumentMoniker": "Teste-Target-Systemas-Jr\\Program.cs",
               "ToolTip": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\Program.cs",
               "RelativeToolTip": "Teste-Target-Systemas-Jr\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-05T22:34:17.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculaComissao.cs",
+              "DocumentMoniker": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\CalculaComissao.cs",
+              "RelativeDocumentMoniker": "Teste-Target-Systemas-Jr\\CalculaComissao.cs",
+              "ToolTip": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\CalculaComissao.cs",
+              "RelativeToolTip": "Teste-Target-Systemas-Jr\\CalculaComissao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:03:08.652Z",
               "EditorCaption": ""
             }
           ]

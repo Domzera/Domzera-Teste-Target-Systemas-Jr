@@ -10,13 +10,13 @@ int numero = Convert.ToInt32(Console.ReadLine());
 switch (numero)
 {
     case 1:
-        TesteComissao.Executar();
+        CalculaComissao.Executar();
         break;
     case 2:
-        TesteEstoque.Executar();
+        //Estoque.Executar();
         break;
     case 3:
-        TesteJuros.Executar();
+        //CalculoDeJuros.Executar();
         break;
     default:
         Console.WriteLine("Opção inválida. Por favor, escolha um teste válido.");
