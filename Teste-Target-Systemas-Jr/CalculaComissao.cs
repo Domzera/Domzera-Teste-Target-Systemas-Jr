@@ -2,6 +2,7 @@
 
 internal class CalculaComissao
 {
+    
     //Esta é a variavel que guarda o nome do vendedor;
     public required string Vendedor { get; set; }
     //Esta é a variavel que guarda os valores das vendas;
@@ -24,8 +25,8 @@ internal class CalculaComissao
 
         //Se o arquivo existe, lê o conteudo do arquivo e desserializa para uma lista de objetos CalculaComissao
         string json = File.ReadAllText(caminhoArquivo);
-        var dados = JsonSerializer.Deserialize<List<VendasDTO>>(json);
-        var vendas = dados ?? new List<VendasDTO>();
+        var dados = JsonSerializer.Deserialize<vendasDTO>(json);
+        var vendas = dados?.vendas ?? new List<ResultadoVendasDTO>();
 
         //Aplicação de regras de negócio com LINQ
         var relatorio = vendas

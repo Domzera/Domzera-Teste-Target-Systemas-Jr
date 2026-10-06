@@ -1,6 +1,4 @@
-﻿internal class VendasDTO
+﻿internal class vendasDTO
 {
-    public string vendedor { get; set; }
-    public decimal valor { get; set; }
-
+    public List<ResultadoVendasDTO>? vendas { get; set; }
 }
