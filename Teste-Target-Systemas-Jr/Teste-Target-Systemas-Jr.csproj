@@ -10,6 +10,21 @@
 
   <ItemGroup>
     <Compile Remove="TesteComissao.cs" />
+    <Compile Remove="Vendas.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="estoque.json" />
+    <None Remove="vendas.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="estoque.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="vendas.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

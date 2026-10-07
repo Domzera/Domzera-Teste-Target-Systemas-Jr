@@ -3,6 +3,18 @@
 internal class CalculaComissao
 {
     
+    // Classe de refencia das Vendas
+    internal class VendasDTO
+    {
+        public List<ResultadoVendasDTO>? vendas { get; set; }
+    }
+    // Classe de refencia dos relatórios
+    internal class ResultadoVendasDTO
+    {
+        public string? vendedor { get; set; }
+        public decimal valor { get; set; }
+    }
+    
     //Esta é a variavel que guarda o nome do vendedor;
     public required string Vendedor { get; set; }
     //Esta é a variavel que guarda os valores das vendas;
@@ -19,16 +31,16 @@ internal class CalculaComissao
         // Verifica se o arquivo existe
         if (!File.Exists(caminhoArquivo))
         {
-            Console.WriteLine("Arquivo 'vendas.json' não encontrado.");
+            Console.WriteLine("Arquivo 'vendas.json' não encontrado!");
             return;
         }
 
-        //Se o arquivo existe, lê o conteudo do arquivo e desserializa para uma lista de objetos CalculaComissao
+        // Se o arquivo existe, então o conteudo é lido e é deserializado  para uma lista de ResultadoVendasDTO
         string json = File.ReadAllText(caminhoArquivo);
-        var dados = JsonSerializer.Deserialize<vendasDTO>(json);
+        var dados = JsonSerializer.Deserialize<VendasDTO>(json);
         var vendas = dados?.vendas ?? new List<ResultadoVendasDTO>();
 
-        //Aplicação de regras de negócio com LINQ
+        // Aplicação de regras de negócio com LINQ
         var relatorio = vendas
             .GroupBy(v => v.vendedor)
             .Select(g => new
@@ -43,11 +55,11 @@ internal class CalculaComissao
         {
             Console.WriteLine($"Vendedor: {item.Vendedor}");
             Console.WriteLine($"Total de Vendas: {item.TotalVendas}");
-            Console.WriteLine($"Total de Comissão: {item.TotalComissao}");
-            Console.WriteLine();
+            Console.WriteLine($"Total de Comissão: {item.TotalComissao}\n");
         }
     }
 
+    // Aqui é feito co calculo das comissões
     private static decimal CalcularComissao(decimal valorVenda)
     {
         if(valorVenda <= 100)

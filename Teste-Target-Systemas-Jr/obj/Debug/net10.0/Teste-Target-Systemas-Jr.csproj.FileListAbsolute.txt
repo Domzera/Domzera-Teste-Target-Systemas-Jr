@@ -14,3 +14,5 @@ C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\
 C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Target-Systemas-Jr.genruntimeconfig.cache
 C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\ref\Teste-Target-Systemas-Jr.dll
 C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\obj\Debug\net10.0\Teste-Ta.9FCF6EA2.Up2Date
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\bin\Debug\net10.0\estoque.json
+C:\Users\Lu\Desktop\Teste\Teste-Target-Systemas-Jr\Teste-Target-Systemas-Jr\bin\Debug\net10.0\vendas.json

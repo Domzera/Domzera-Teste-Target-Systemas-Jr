@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|c:\\users\\lu\\desktop\\teste\\teste-target-systemas-jr\\teste-target-systemas-jr\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|solutionrelative:teste-target-systemas-jr\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|c:\\users\\lu\\desktop\\teste\\teste-target-systemas-jr\\teste-target-systemas-jr\\calculacomissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|solutionrelative:teste-target-systemas-jr\\calculacomissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|c:\\users\\lu\\desktop\\teste\\teste-target-systemas-jr\\teste-target-systemas-jr\\vendas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|solutionrelative:teste-target-systemas-jr\\vendas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|c:\\users\\lu\\desktop\\teste\\teste-target-systemas-jr\\teste-target-systemas-jr\\estoque.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|solutionrelative:teste-target-systemas-jr\\estoque.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|c:\\users\\lu\\desktop\\teste\\teste-target-systemas-jr\\teste-target-systemas-jr\\resultadovendasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|solutionrelative:teste-target-systemas-jr\\resultadovendasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|c:\\users\\lu\\desktop\\teste\\teste-target-systemas-jr\\teste-target-systemas-jr\\vendasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|solutionrelative:teste-target-systemas-jr\\vendasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|c:\\users\\lu\\desktop\\teste\\teste-target-systemas-jr\\teste-target-systemas-jr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B44E40-C32A-E838-634D-DDC45CE72547}|Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr.csproj|solutionrelative:teste-target-systemas-jr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\Estoque.cs",
+              "RelativeDocumentMoniker": "Teste-Target-Systemas-Jr\\Estoque.cs",
+              "ToolTip": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\Estoque.cs",
+              "RelativeToolTip": "Teste-Target-Systemas-Jr\\Estoque.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAD4vz0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:43:50.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4cd19e87-acec-442d-90de-0c912a0a9ecb",
+        "Display": 1,
+        "X": 570,
+        "Y": 132,
+        "Width": 1230,
+        "Height": 614,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "vendas.json",
-              "DocumentMoniker": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\vendas.json",
-              "RelativeDocumentMoniker": "Teste-Target-Systemas-Jr\\vendas.json",
-              "ToolTip": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\vendas.json",
-              "RelativeToolTip": "Teste-Target-Systemas-Jr\\vendas.json",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-06T21:51:29.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VendasDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\VendasDTO.cs",
-              "RelativeDocumentMoniker": "Teste-Target-Systemas-Jr\\VendasDTO.cs",
-              "ToolTip": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\VendasDTO.cs",
-              "RelativeToolTip": "Teste-Target-Systemas-Jr\\VendasDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T21:51:21.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CalculaComissao.cs",
               "DocumentMoniker": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\CalculaComissao.cs",
               "RelativeDocumentMoniker": "Teste-Target-Systemas-Jr\\CalculaComissao.cs",
               "ToolTip": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\CalculaComissao.cs",
               "RelativeToolTip": "Teste-Target-Systemas-Jr\\CalculaComissao.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAMwBsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T23:03:08.652Z",
+              "WhenOpened": "2026-10-06T22:43:57.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\Program.cs",
+              "RelativeDocumentMoniker": "Teste-Target-Systemas-Jr\\Program.cs",
+              "ToolTip": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\Program.cs",
+              "RelativeToolTip": "Teste-Target-Systemas-Jr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T23:59:28.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ResultadoVendasDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\ResultadoVendasDTO.cs",
-              "RelativeDocumentMoniker": "Teste-Target-Systemas-Jr\\ResultadoVendasDTO.cs",
-              "ToolTip": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\ResultadoVendasDTO.cs",
-              "RelativeToolTip": "Teste-Target-Systemas-Jr\\ResultadoVendasDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T21:37:30.708Z",
+              "Title": "estoque.json",
+              "DocumentMoniker": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\estoque.json",
+              "RelativeDocumentMoniker": "Teste-Target-Systemas-Jr\\estoque.json",
+              "ToolTip": "C:\\Users\\Lu\\Desktop\\Teste\\Teste-Target-Systemas-Jr\\Teste-Target-Systemas-Jr\\estoque.json",
+              "RelativeToolTip": "Teste-Target-Systemas-Jr\\estoque.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T22:50:54.98Z",
               "EditorCaption": ""
             }
           ]
