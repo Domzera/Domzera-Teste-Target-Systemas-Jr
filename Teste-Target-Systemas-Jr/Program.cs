@@ -20,7 +20,7 @@ do
             Estoque.Executar();
             break;
         case 3:
-            //CalculoDeJuros.Executar();
+            CalculoDeJuros.Executar();
             break;
         case 4:
             Console.WriteLine("Volte sempre!");
